@@ -7,6 +7,10 @@ The goal is to analyze the **generalization ability**, **accuracy**, and **overf
 ---
 
 ## Dataset
+## 📦 Dataset Access
+The dataset used for this project is available on Kaggle:  
+👉 [Kaggle Dataset Link]()
+
 - **Total files:** 4,000 images  
 - **Data split:** Training, Validation, and Test sets  
 - **Augmentation techniques:** Rotation, Zoom, and Horizontal Flip to enhance generalization and reduce overfitting.
